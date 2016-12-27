@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Example" verbose="1">
+	<test name="Regression suite 1" preserve-order="true" parallel="Classes">
+		<classes>
+			<class
+				name="com.ascendlearning.analytics.ui.facultyreporting.tests.SampleTest" />
+			<class
+				name="com.ascendlearning.analytics.ui.facultyreporting.tests.ProductDropDown" />
+			<class
+				name="com.ascendlearning.analytics.ui.facultyreporting.tests.ShowAcademicPreparedness" />
+			<class
+				name="com.ascendlearning.analytics.ui.facultyreporting.tests.StudentsParameter" />
+
+		</classes>
+	</test>
+</suite>
